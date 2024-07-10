@@ -1,3 +1,4 @@
+[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
 <h1 align="center"> Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Darshan SP </h1>
 <h3 align="center">Currently Pursuing Computer Science Engineering From Bangalore</h3>
 <div align="center">
