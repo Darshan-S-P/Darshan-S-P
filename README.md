@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/darshans-sp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshans-sp" height="30" width="40" /></a>
 <a href="https://instagram.com/darshan_s_p_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darshan_s_p_007" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/DarshanS_P" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="DarshanS_P" height="30" width="40" /></a>
+
 
 </p>
 
